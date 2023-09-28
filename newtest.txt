@@ -1,1 +1,2 @@
 "This is a new test message"
+This is an even newer message
